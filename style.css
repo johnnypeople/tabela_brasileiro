@@ -1,0 +1,80 @@
+.darkblue{
+    color: rgb(3, 3, 134);
+}
+.lightblue{
+    color: rgba(0, 255, 255, 0.671);
+}
+.yellow{
+    color: rgb(218, 186, 5);
+}
+.lightgray{
+    color: rgba(128, 128, 128, 0.466);
+}
+.red{
+    color: rgb(223, 8, 8);
+}
+#Pos{
+    font-family: Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.Time{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    
+}
+.Pts{
+    font-family: Arial;
+    font-weight: bolder;
+    text-align: center;
+}
+#Cabeça{
+    text-align: center;
+    font-weight: bold;
+    font-family: Arial;
+    font-size: 15px;
+    color: rgba(0, 0, 0, 0.363);
+    
+}
+.Stats{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30px;
+    border-radius: 10%;
+    height: 25px;
+    
+}
+#gray{
+    background-color: rgba(128, 128, 128, 0.13);
+    border-radius: 10%;
+    width: 25px;
+}
+table{
+   width: 510px;
+   border-radius: 1%;
+   background-color: aliceblue;
+   margin-left: 36%;
+   
+}
+header{
+    text-align: center;
+    margin-bottom: 5%;
+    background-color: rgba(16, 224, 16, 0.404);
+    border-radius: 5px;
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+p{
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-top: 1%;
+}
+body{
+    background-image: url(https://static.vecteezy.com/ti/vetor-gratis/p2/549200-campo-futebol-com-estadio-001-vetor.jpg);
+    background-size: cover;
+    background-position-y: center;
+}
